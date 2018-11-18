@@ -2,8 +2,7 @@ JMETER.
 ---
 Send POST/GET request
 
-![part_of_html_report](https://user-images.githubusercontent.com/26840848/48676297-b5e22d80-eb75-11e8-9e29-248fe2cb3b60.png)
-
+![1](https://user-images.githubusercontent.com/26840848/48677594-2f831700-eb88-11e8-96da-89fc9c60c99a.png)
 or can use **Grafana**
 
-![grafana](https://user-images.githubusercontent.com/26840848/48676202-77983e80-eb74-11e8-9289-93099dcddc38.png)
+![2](https://user-images.githubusercontent.com/26840848/48677596-3dd13300-eb88-11e8-9e64-9ae42e4641c9.png)

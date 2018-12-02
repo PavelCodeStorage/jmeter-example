@@ -1,6 +1,6 @@
 JMETER.
 ---
-Send POST/GET request
+Send **POST/GET** request
 
 ![1](https://user-images.githubusercontent.com/26840848/48677594-2f831700-eb88-11e8-96da-89fc9c60c99a.png)
 or can use **Grafana**

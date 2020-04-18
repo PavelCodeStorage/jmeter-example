@@ -10,5 +10,5 @@ or can use **Grafana**
 
 **User interface**
 
-If you wish to load user interface, just download blazemeter plugin for Chrome and record your steps.
-Then you can save your recording in jmx file and open in jmeter.
+If you wish to load user interface, just download **blazemeter plugin for Chrome and record your steps.
+Then you can save your recording in jmx file and open in jmeter.**
